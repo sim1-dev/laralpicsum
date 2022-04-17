@@ -15,7 +15,7 @@ This package was created on Laravel version 8 and is currently untested on older
 Install the package with Composer
 
 ```bash
-  composer require sim1dev/larapicsum
+  composer require sim1-dev/larapicsum
 ```
     
 ## Usage/Examples
