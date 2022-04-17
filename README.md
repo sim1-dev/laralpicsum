@@ -62,7 +62,7 @@ return new Larapicsum(); //{"width":300,"height":200,"grayscale":0,"blur":0,"for
 
 ## Author
 
-- [@sim1-dev](https://github.com/sim1-dev) 
+- [@sim1-dev](https://github.com/sim1-dev) - Simone Tenisci
 
 
 ## Buy [me](https://www.simonetenisci.it/) a coffee ☕
