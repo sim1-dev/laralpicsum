@@ -1,0 +1,26 @@
+{
+    "name": "sim1-dev/larapicsum",
+    "description": "Fetch images from Lorem Picsum API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sim1-dev",
+            "email": "simonetenisci10@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "autoload" : {
+        "psr-4": {
+            "Sim1dev\\Larapicsum\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sim1dev\\Larapicsum\\LarapicsumServiceProvider"
+            ]
+        }
+    }
+}
